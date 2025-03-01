@@ -1,0 +1,9 @@
+autoinfiniteplay\modcore\InfiniteAction.class
+autoinfiniteplay\modcore\InfiniteCondition.class
+org\example\Main.class
+autoinfiniteplay\patch\FinishPatch$DrawCardAction_Post.class
+autoinfiniteplay\patch\FinishPatch.class
+autoinfiniteplay\modcore\AutoInfinite\WatcherInfinte.class
+autoinfiniteplay\modcore\AutoInfinite\IconcladInfinte.class
+autoinfiniteplay\patch\FinishPatch$ChangeStanceAction_Pre.class
+autoinfiniteplay\modcore\CommonUtil.class
